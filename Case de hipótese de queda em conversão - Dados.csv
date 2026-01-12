@@ -1,0 +1,7 @@
+Funil,M-1,M
+Lead (cadastro no site),2000,2000
+Trial (teste gratuito de 14 dias),800,760
+Conversão para cliente pago,200,170
+Lead → Trial,"40,0%","38,0%"
+Trial → Pago,"25,0%","22,4%"
+Conversão total ,"10,0%","8,5%"
